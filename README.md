@@ -952,6 +952,7 @@ algorithms, knowledgebase and AI technology.
 * [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
 * [Follow.net](https://follow.net)
+* [Fraudpol Scan](https://fraudpol.com/scan) - Finds registered lookalike domains of a brand via certificate transparency logs and common typo variants, and shows which resolve, accept email or serve a website.
 * [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * [GraphyStories](https://app.graphystories.com)
 * [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
